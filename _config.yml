@@ -9,7 +9,7 @@ description: DevOps, Cloud, Serverless, Containers news and tutorials for everyo
 keywords: programming,devops,cloud,go,mobile,serverless,docker
 author: Bert Bullough
 language: en
-timezone: US/Denver
+timezone: America/Denver
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
